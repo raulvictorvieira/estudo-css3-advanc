@@ -1,0 +1,18 @@
+
+header {
+	border: 1px solid red;
+	background: gray;
+	padding: 10px;
+}
+
+nav {
+	border: 1px solid red;
+	background: gray;
+	padding: 10px;
+}
+
+footer {
+	border: 1px solid red;
+	background: gray;
+	padding: 10px;
+}
